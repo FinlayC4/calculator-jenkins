@@ -5,7 +5,7 @@ import com.agile.utils.Utils;
 public class Calculator {
 
 	public int divide(String n1) {
-		int result = -9999;		
+		int result = -99999;		
 		String separator = ",";
 		// if doesn't contain a comma call this
 		if(!n1.contains(","))
