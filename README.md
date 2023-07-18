@@ -1,1 +1,1 @@
-"* calculator demo" 
+* calculator demo 
